@@ -5,7 +5,7 @@ from csv import DictReader, DictWriter
 from collections import defaultdict
 
 def reformat_dates(old_dates):
-    
+
     pass  # Implement this function
 
 def date_range(start, n):
@@ -25,3 +25,4 @@ def fees_report(infile, outfile):
 if __name__ == '__main__':
     # You can add test code here to check the functionality of your functions
     pass
+
